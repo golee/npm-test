@@ -1,0 +1,8 @@
+{
+  "name": "alert-hello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://git.medicalai.com:50001/golee/npm-test.git",
+  "author": "Lee, Jebum <golee@medicalai.com>",
+  "license": "MIT"
+}
