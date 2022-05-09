@@ -1,8 +1,11 @@
 {
-  "name": "alert-hello",
+  "name": "@golee/alert-hello",
   "version": "1.0.4",
   "main": "index.js",
   "repository": "https://git.medicalai.com:50001/golee/npm-test.git",
   "author": "Lee, Jebum <golee@medicalai.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "golee/registry": "https://git.medicalai.com:50001/api/v4/projects/245/packages/npm"
+  }
 }
